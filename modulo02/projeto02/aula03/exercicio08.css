@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(244, 247, 250);
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: rgb(74, 144, 226);
+}
+
+img {
+  width: 244px;
+  display: inline-block;
+}
